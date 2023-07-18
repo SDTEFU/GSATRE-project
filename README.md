@@ -18,6 +18,5 @@
 - (FIEC虚拟机&EITH容器)管理系统
 - SRTG language server/Build Tool/package manager/compiler
 - SRTG 数学库/形式化验证库(像mathematica/agda/lean4)
-- SRTG 多线程库
-- SRTG AI模型库
 - 数据库
+- AI
