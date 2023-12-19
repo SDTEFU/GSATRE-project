@@ -8,7 +8,7 @@
 
 基础：
 - FIEC指令集架构
-- SRTG程序设计语言(Lisp)(核心为精简完备的类型语言&精简的元语言用来拓展&拥有强大的宏)
+- SRTG程序设计语言(HOTT&Type Theory&Category Theory)
 - EITH微内核
 
 核心内容：
